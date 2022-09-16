@@ -5,10 +5,10 @@ global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
 ['16199961931', 'Ziv San', true], 
-['6282179137771', 'HAORI IQ-MD', true] 
+['6283144905153', 'HAORI IQ-MD', true] 
 ]
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: 'CubiBotzz'
   nrtm: 'https://nurutomo.herokuapp.com',
   bg: 'http://bochil.ddns.net',
   xteam: 'https://api.xteam.xyz',
@@ -76,7 +76,7 @@ global.thumbnailUrl = [
 //============= Games ================//
 global.benar = '_*Benar✅*_'
 global.salah = '_*Salah❌*_'
-global.dikit = "dikit lagi, semangat ya :')"
+global.dikit = "dikit lagi, nyerah aja kontol
 
 global.multiplier = 100 // The higher, The harder levelup
 
